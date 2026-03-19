@@ -11,8 +11,7 @@ The kind where:
 - users drop off but no one knows why  
 - dashboards exist but don’t drive decisions  
 - AI is implemented… but not really useful  
-
-That’s where I spend most of my time—connecting data, product thinking, and user behaviour.
+That’s where I spend most of my time connecting data, product thinking, and user behaviour.
 
 ## What I’ve done so far
 
@@ -42,7 +41,6 @@ Simulating user funnels and testing how product changes impact conversion
 ### 🤖 User Journey Copilot
 LLM-based assistant to guide users through complex flows (like test booking) and reduce friction
 
-
 ## Tools I use
 
 **Product & Analytics**  
@@ -57,7 +55,6 @@ JIRA, Confluence, Figma, Notion
 **Tech & Platforms**  
 AWS, Azure, Microservices, CI/CD, Kubernetes  
 
-
 ## A bit more about me
 
 I enjoy talking to users, breaking down problems, and figuring out what actually matters.
@@ -70,8 +67,4 @@ And maybe it’s just me, but I’ve always believed:
 
 - 📍 Chennai / Bangalore  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sivakumar1natarajan/)  
-- 📧 sivakumar012@live.com  
-
----
-
-_Still building. Still learning. Trying to make things a little better each time._
+- 📧 sivakumar012@live.com 
