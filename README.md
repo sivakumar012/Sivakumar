@@ -1,4 +1,4 @@
-Hi, I’m Sivakumar — I build AI-powered product experiences.
+Hi, I’m Sivakumar - I build AI-powered product experiences.
 
 I focus on:
 - AI + Product Analytics
