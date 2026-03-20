@@ -1,5 +1,4 @@
 # Hi, I’m Sivakumar 👋
----
 I build data-driven product experiences that actually move metrics. Over the last 13+ years, I’ve worked across BFSI, SaaS, and recently EdTech focusing on AI-enabled products, product analytics, and conversion optimisation at scale.
 ## What I’ve done so far
 
