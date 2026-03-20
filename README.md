@@ -1,18 +1,6 @@
 # Hi, I’m Sivakumar 👋
-
-I build data-driven product experiences that actually move metrics.
-Over the last 13+ years, I’ve worked across BFSI, SaaS, and recently EdTech focusing on AI-enabled products, product analytics, and conversion optimisation at scale.
-
-## What I care about
-
-Honestly, I’m drawn to messy product problems.
-
-The kind where:
-- users drop off but no one knows why  
-- dashboards exist but don’t drive decisions  
-- AI is implemented… but not really useful  
-That’s where I spend most of my time connecting data, product thinking, and user behaviour.
-
+---
+I build data-driven product experiences that actually move metrics. Over the last 13+ years, I’ve worked across BFSI, SaaS, and recently EdTech focusing on AI-enabled products, product analytics, and conversion optimisation at scale.
 ## What I’ve done so far
 
 - Improved conversion by **7% on a 1M+ MAU platform** through funnel analysis and targeted fixes  
@@ -22,25 +10,11 @@ That’s where I spend most of my time connecting data, product thinking, and us
 - Led cross-functional execution across product, data, and engineering teams  
 
 ## What I’m building now
-
 I’m currently exploring how AI can move beyond hype into real product value:
 
 - AI agents for **product analytics and decisioning**
 - LLM-powered assistants for **user journey optimisation**
 - Systems that connect **user behaviour → insights → actions**
-
-
-## Featured Work
-
-### 🧠 AI Product Analytics Agent *(in progress)*
-An agent that analyses user funnels and surfaces actionable insights (drop-offs, anomalies, opportunities)
-
-### 📊 Conversion Lab
-Simulating user funnels and testing how product changes impact conversion
-
-### 🤖 User Journey Copilot
-LLM-based assistant to guide users through complex flows (like test booking) and reduce friction
-
 ## Tools I use
 
 **Product & Analytics**  
